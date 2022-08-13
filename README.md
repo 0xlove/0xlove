@@ -81,6 +81,10 @@
         <strong>Rust</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
+      <td width="16%" align="center">
+        <strong>Rust</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/erc720.svg">
+      </td>
     </tr>
   </tbody>
 </table>
