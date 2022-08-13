@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Full-stack Blockchain Engineer. During day, Assisting
+<p><strong>Full-stack Blockchain Engineer. (Blockchain-focused)
 <br>my father at his shop & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
@@ -67,16 +67,12 @@ class About extends Me {
         <strong>Web3JS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
       </td>
-      <td width="16%" align="center">
-        <strong>EthersJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Rust</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
     </tr>
     <tr valign="top">
+      <td width="16%" align="center">
+        <strong>Javascript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
       <td width="16%" align="center">
         <strong>Typescript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
