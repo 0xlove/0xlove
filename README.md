@@ -2,8 +2,8 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Full-stack Blockchain Engineer. (Blockchain-focused)
-<br>my father at his shop & Coder at night.
+<p><strong>Full-stack Blockchain Engineer
+<br>Focused on NFTs, P2E, DeFi
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
@@ -96,10 +96,6 @@ class About extends Me {
       <td width="16%" align="center">
         <strong>Rust</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>NextJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
     </tr>
   </tbody>
