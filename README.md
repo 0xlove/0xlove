@@ -1,6 +1,7 @@
 <p align="center">
   <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
 </p>
+
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
@@ -13,7 +14,6 @@
 <table>
   <tbody>
     <tr valign="top">
-   
       <td width="16%" align="center">
         <strong>Python</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
