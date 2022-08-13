@@ -5,7 +5,7 @@
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
+* 🌈   
 
 ## Tech Stack
 
@@ -107,6 +107,7 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; arnold.tang3@gmail.com<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin)](https://github.com/satoterin/satoterin)
 
