@@ -1,59 +1,88 @@
-### :clap: Welcome to my World :clap: ######
+<p align="center">
+  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
+</p>
 
-Hi. I'm a senior Full-Stack & Blockchain developer who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
-Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
+### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
+* 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
+* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
+* 🌱   Currently learning Linux, Rust, Math & Philosophy.
+* 💻   With 10 years' computer science and technology education and 7 years' development working experience.
+* ⛵   Encouraging people for open source collaborations.
+* 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
-<img align="right" alt="GIF" src="https://github.com/kinsley911/marketplace/blob/main/src/coder.gif?raw=true" width="50%" height="auto" />
+## Tech Stack
 
-:small_blue_diamond: :muscle: As a professional web developer, have over 6 years of experience in the web field.
+<table>
+  <tbody>
+    <tr valign="top">
+       <td width="16%" align="center">
+        <strong>JavaScript</strong><br><br><br>
+        <img height="48px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp">
+      </td>
+      <td width="16%" align="center">
+        <strong>Python</strong><br><br><br>
+        <img height="48px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
+      </td>
+      <td width="16%" align="center">
+        <strong>NodeJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>ReactJS</strong><br><br><br>
+        <img height="48px" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp">
+      </td>
+      <td width="16%" align="center">
+        <strong>Git</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Go</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Ethereum</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum-color.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Solidity</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Web3JS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="16%" align="center">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>C++</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>NextJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="15%" align="center">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
+      </td>  
+      <td width="16%" align="center">
+        <strong>AWS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>EthersJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Rust</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-:small_blue_diamond: 🤔 I’m looking to help with building web apps and Defi 
-
-:small_blue_diamond: 💬 Ask me about web and blockchain developmentCancel changes
-
-:small_blue_diamond: 📫 How to reach me:
-
-  Email: earncash546@gmail.com 
-  
-  Skype: live:.cid.c6085b5fb49dbed
-
-
-### Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-#### Web & Mobile Development
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=skyblue&color=skyblue)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=lightgreen&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=red&color=red)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=skyblue&color=skyblue)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=skyblue&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=blue)
-
-#### Blockchain Development
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-
-#### Other
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
-"# kiwitcher" 
+[![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
