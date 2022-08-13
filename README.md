@@ -20,19 +20,18 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : { "Javascript", "Typescript", "Python", "C++", "Go", "Solidity", "Rust"},
+    "Frameworks" : { "React", "Vue.js", "Django", "Laravel", "Node.js", "Cypress", "Cosmos SDK" },
+    "Library/APIs" : { "GraphQL", "Apollo", "SQLAlchemy", "Web3.js", "Ethers.js" },
+    "Platforms" : { "Ethereum", "Solana", "AWS", "GCP", "Azure", "Nginx", "Docker"},
+    "OtherTools" : { "Git", "Figma", "CircleCI", "Storybook", "RabbitMQ" }
   };
 }
 ```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; NFT Enthusiast, Solana Fan <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **NFT, GameFi, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; arnold.tang3@gmail.com<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.<br>
 
