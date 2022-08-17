@@ -67,8 +67,8 @@ class About extends Me {
         <img height="34px" src="https://cryptologos.cc/logos/solana-sol-logo.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Web3JS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
+        <strong>Rust</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -101,8 +101,8 @@ class About extends Me {
         <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Rust</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
+        <strong>Web3JS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
       </td>
     </tr>
   </tbody>
