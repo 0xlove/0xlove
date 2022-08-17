@@ -63,6 +63,10 @@ class About extends Me {
         <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
       </td>
       <td width="16%" align="center">
+        <strong>Solana</strong><br><br><br>
+        <img height="34px" src="https://cryptologos.cc/logos/solana-sol-logo.svg">
+      </td>
+      <td width="16%" align="center">
         <strong>Web3JS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
       </td>
@@ -87,6 +91,10 @@ class About extends Me {
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>CosmosSDK</strong><br><br><br>
+        <img height="48px" src="https://cryptologos.cc/logos/cosmos-atom-logo.svg">
       </td>
       <td width="16%" align="center">
         <strong>EthersJS</strong><br><br><br>
